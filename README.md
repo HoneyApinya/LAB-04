@@ -32,9 +32,11 @@
  
  * สั่ง Run โปรแกรม เพื่อดูผลการทดลอง 
 ![](https://github.com/HoneyApinya/LAB-04/blob/master/4.2.png?raw=true)
+
+
 ####บันทึกผลการทดลอง
 <hr>เมื่อกดรันที่หน้าเมนูโปรแกรมเฉยๆ โปรแกรมจะแสดงข้อมูลอย่างเร็วและหายไป จึงต้องกด (Ctrl+F5) ไม่เช่นนั้นจะแสดงผลเช่นนี้
-<hr>![](https://github.com/HoneyApinya/LAB-04/blob/master/4.1.png?raw=true)
+![](https://github.com/HoneyApinya/LAB-04/blob/master/4.1.png?raw=true)
 <hr>
 <hr>
 <hr>
@@ -48,9 +50,8 @@
  ![](https://github.com/HoneyApinya/LAB-04/blob/master/4.2.png?raw=true)
  * การรันแล้วทำให้หน้าจอ console ยังคงแสดงผลค้างอยู่นั้น ให้เลือกเมนู Debug -> Start Without Debugging (Ctrl+F5) มิฉะนั้น หน้าจอ console จะหายไปอย่างรวดเร็ว
 <hr>
-<hr>
-<hr>
-<hr>
+![](https://github.com/HoneyApinya/LAB-04/blob/master/4.3.png?raw=true)
+จะแสดงผลคำว่า Hello กับ World อยู่ติดกันเลย แม้ว่าจะพิมในโค้ดคนละบรรทัดก็ตาม
 <hr>
 
 
