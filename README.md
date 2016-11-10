@@ -47,7 +47,6 @@
 
  * สั่ง Run โปรแกรมและบันทึกผลที่ได้จากการรันโปรแกรม
  
- ![](https://github.com/HoneyApinya/LAB-04/blob/master/4.2.png?raw=true)
  * การรันแล้วทำให้หน้าจอ console ยังคงแสดงผลค้างอยู่นั้น ให้เลือกเมนู Debug -> Start Without Debugging (Ctrl+F5) มิฉะนั้น หน้าจอ console จะหายไปอย่างรวดเร็ว
 <hr>
 ![](https://github.com/HoneyApinya/LAB-04/blob/master/4.3.png?raw=true)
