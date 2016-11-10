@@ -31,9 +31,9 @@
 ![](https://github.com/Desktop-Programming-Lab-2559/LAB-04/blob/master/imgs/P3.png)
  
  * สั่ง Run โปรแกรม เพื่อดูผลการทดลอง 
-
+![](https://github.com/HoneyApinya/LAB-04/blob/master/4.2.png?raw=true)
 ####บันทึกผลการทดลอง
-<hr>เมื่อกดรันที่หน้าเมนูโปรแกรมเฉยๆ โปรแกรมจะแสดงข้อมูลอย่างเร็วและหายไป จึงต้องกด (Ctrl+F5) ไม่เช่นนั้นจะแสดงผล
+<hr>เมื่อกดรันที่หน้าเมนูโปรแกรมเฉยๆ โปรแกรมจะแสดงข้อมูลอย่างเร็วและหายไป จึงต้องกด (Ctrl+F5) ไม่เช่นนั้นจะแสดงผลเช่นนี้
 <hr>![](https://github.com/HoneyApinya/LAB-04/blob/master/4.1.png?raw=true)
 <hr>
 <hr>
